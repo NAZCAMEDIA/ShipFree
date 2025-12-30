@@ -16,6 +16,8 @@ ShipFree is a free alternative to ShipFast, designed to simplify and optimize yo
 
 ShipFree provides Docker configurations for both **development** and **production** environments. Below, you'll find the structure of the Docker files and the commands to get started.
 
+> 📘 **Documentación en Español**: Para una explicación detallada de las diferencias entre los entornos de desarrollo y producción, consulta [ENTORNOS.md](ENTORNOS.md)
+
 ### Docker File Structure
 
 The Docker files are organized as follows:
